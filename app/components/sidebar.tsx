@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
           ChatGPT Next
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          ChatGPT Nex AI 有需要代搭建此网站的请加我QQ478201690 可以解答你一切问题问题，志鹏
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
