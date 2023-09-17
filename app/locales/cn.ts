@@ -275,7 +275,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "你好，我是ChatGPT 我可以解答你任何问题，你不懂的我都懂，如果网站出问题，请联系作者微信13037687601 志鹏666",
+    BotHello: "你好，我是ChatGPT 我可以解答你任何问题，你不懂的我都懂，如果网站出问题，请联系作者微信![图片描述](/apple-touch-icon.png) 志鹏666",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
