@@ -118,7 +118,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          ChatGPT Next
+          ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
           ChatGPT Nex AI 有需要代搭建此网站的请加我QQ478201690 可以解答你一切问题问题，志鹏
